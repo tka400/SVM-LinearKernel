@@ -10,4 +10,4 @@
 
 Нелинейное ядро дико сложно программировать. Я не осилил.
 
-![text](classification.png)
+![текст](classification.png)
